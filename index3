@@ -1,0 +1,132 @@
+<html>
+<head>
+
+	<title>slide 3</title>
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300" rel="stylesheet">
+
+
+ <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+<style type="text/css">
+	
+	#line{
+		width: 1px;
+		height:280px;
+		background-color: #757575; 
+	}
+
+	.bo{
+		border: solid #757575 1px;
+
+	}
+
+	.container{
+		font-family: 'Roboto', sans-serif;
+
+	}
+
+	h4{
+		color: #007fad;
+	}
+</style>
+
+</head>
+<body>
+
+<div class="container">
+  <div class="row">
+
+  	<div id="line" >
+      
+    </div>
+    
+    <div class="col-md-5" >
+      <div >
+         
+              <div class="card-body">
+                <h4 class="card-title"> <img src="img/icons/icn_trv_icon_coloured.svg"  alt="..."> Hotel Manager</h4>
+                <p class="card-text">By signing up for Direct Connect, independent
+						hoteliers are able to display live rates and
+						availability directly in trivago hotel search results.
+						In addition to boosting booking volume and
+						strengthening the hotel brand, third party
+						booking site involvement is eliminated – saving
+						the hotelier commission costs.</p>
+                <a href="#">http://www.trivago.com/hotelmanager/</a>
+              </div>
+      </div>
+    </div>
+
+    <div class="col-md-2">
+    	
+
+    </div>
+
+    <div id="line" >
+      
+    </div>
+    
+    <div class="col-md-4">
+      <div >
+          
+              <div class="card-body">
+                <h4 class="card-title"><img src="img/icons/icn_hoteltest_fill_dark.svg"  alt="...">Direct Connect</h4>
+					 <p class="card-text">trivago Hotel Manager is the free platform for hoteliers to
+						manage their online presence on trivago. By providing the
+						tools and advice necessary to ensure glowing online profiles,
+						we help them to improve their hotels’ ranking and visibility
+						on trivago, thereby boosting business and bookings.</p>
+                
+              </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="row">
+	<div class="bo">
+
+		<img src="img/hotel_manager.jpg" width="100%">
+	</div>
+
+</div>
+
+<div class="container">
+	 <div class="row">
+	 	<div class="col-md-2">
+	 		
+	 	</div>
+
+	  	<div id="line" >
+	      
+	    </div>
+	    
+	    
+	      <div class="col-md-7">
+	         
+	              <div class="card-body">
+	                <h4 class="card-title"> Hotel Test</h4>
+					 <p class="card-text">The Hotel Test was conceived to offer hotels as much comprehensive content for their trivago
+						profiles as possible. Hotel guests receive a cash bonus for filling out detailed surveys about the
+						hotel, its amenities and their experiences staying there, the results of which are aggregated to
+						create an analysis of the hotel’s performance. That’s what we call a win-win situation.</p>
+							                <a href="#">http://www.trivago.co.uk/hoteltest</a>
+	              </div>
+	      </div>
+	    
+	</div>
+</div>
+
+
+
+</body>
+
+
+
+
+</html>
